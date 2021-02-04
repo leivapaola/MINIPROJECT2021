@@ -28,8 +28,9 @@ Explain how the usage of Git, Docker, automated testing, and continuous integrat
 3. Sources
 
 ## Changelog
-** Type ** | ** Description ** | ** Team Member **
+**Type** | **Description** | **Team Member**
 ------ | ------ | ------
 Feature | Initialized Project Repository | Paola
 Feature | Created README | Phil
 Task | Added project team members, goal, sections, changelog to README | Phil
+Fix | Fixed formatting on README | Phil
