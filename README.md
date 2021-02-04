@@ -13,18 +13,18 @@ Explain how the usage of Git, Docker, automated testing, and continuous integrat
 
 1. gitFlow workflow
 2. Git commands and terminology
-    * Repository
-    * Clone
-    * Fork
-    * Branch
-    * Commit
-    * Merge
-    * Checkout
-    * Push
-    * Pull 
-    * Remote Add / Remove / Show
-    * Status
-    * Master Branch
+  * Repository
+  * Clone
+  * Fork
+  * Branch
+  * Commit
+  * Merge
+  * Checkout
+  * Push
+  * Pull 
+  * Remote Add / Remove / Show
+  * Status
+  * Master Branch
 3. Sources
 
 ## Changelog
