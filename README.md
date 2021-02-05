@@ -11,7 +11,7 @@ Explain how the usage of Git, Docker, automated testing, and continuous integrat
 
 ## Sections
 
-1. Improving the productivity and competitiveness of a company 
+1. Improving the productivity and competitiveness of a company
     * Git
     * Docker
     * Automated Testing
@@ -26,7 +26,7 @@ Explain how the usage of Git, Docker, automated testing, and continuous integrat
     * Merge
     * Checkout
     * Push
-    * Pull 
+    * Pull
     * Remote Add / Remove / Show
     * Status
     * Master Branch
@@ -34,14 +34,4 @@ Explain how the usage of Git, Docker, automated testing, and continuous integrat
 
 ## [Tasks](/tasks.md)
 
-## Changelog
-**Type** | **Description** | **Team Member** | **Date**
------- | ------ | ------ | ------
-Feature | Initialized Project Repository | Paola | 20210202
-Feature | Created README | Phil | 20210203
-Task | Added project team members, goal, sections, changelog to README | Phil | 20210203
-Fix | Fixed formatting on README | Phil | 20210203
-Fix | Added sections to README | Phil | 20210204
-Fix | Added Date to Changelog | Phil | 20210204
-Feature | Added Task list | Phil | 20210204
-Task | Created folder structure and placeholder pages | Phil | 20210204
+## [Changelog](/CHANGELOG.md)
