@@ -11,8 +11,13 @@ Explain how the usage of Git, Docker, automated testing, and continuous integrat
 
 ## Sections
 
-1. gitFlow workflow
-2. Git commands and terminology
+1. Improving the productivity and competitiveness of a company 
+    * Git
+    * Docker
+    * Automated Testing
+    * Continuous Integration
+2. gitFlow workflow
+3. Git commands and terminology
     * Repository
     * Clone
     * Fork
@@ -25,12 +30,14 @@ Explain how the usage of Git, Docker, automated testing, and continuous integrat
     * Remote Add / Remove / Show
     * Status
     * Master Branch
-3. Sources
+4. Sources
 
 ## Changelog
-**Type** | **Description** | **Team Member**
------- | ------ | ------
-Feature | Initialized Project Repository | Paola
-Feature | Created README | Phil
-Task | Added project team members, goal, sections, changelog to README | Phil
-Fix | Fixed formatting on README | Phil
+**Type** | **Description** | **Team Member** | **Date**
+------ | ------ | ------ | ------
+Feature | Initialized Project Repository | Paola | 20210202
+Feature | Created README | Phil | 20210203
+Task | Added project team members, goal, sections, changelog to README | Phil | 20210203
+Fix | Fixed formatting on README | Phil | 20210203
+Fix | Added sections to README | Phil | 20210204
+Fix | Added Date to Changelog | Phil | 20210204
