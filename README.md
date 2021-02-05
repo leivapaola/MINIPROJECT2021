@@ -32,6 +32,8 @@ Explain how the usage of Git, Docker, automated testing, and continuous integrat
     * Master Branch
 4. Sources
 
+## [Tasks](/tasks.md)
+
 ## Changelog
 **Type** | **Description** | **Team Member** | **Date**
 ------ | ------ | ------ | ------
@@ -41,3 +43,4 @@ Task | Added project team members, goal, sections, changelog to README | Phil | 
 Fix | Fixed formatting on README | Phil | 20210203
 Fix | Added sections to README | Phil | 20210204
 Fix | Added Date to Changelog | Phil | 20210204
+Feature | Added Task list | Phil | 20210204
