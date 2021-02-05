@@ -1,5 +1,6 @@
 # Task list
 
+## Overview
 - [x] Create Project outline
 - [x] Create Folder structure
 - [x] Create placeholder pages
@@ -10,7 +11,7 @@
 - [ ] Submit project
 
 ## Pages
-- [ ] S1 - Improving the productivity and competitiveness of a company 
+- [ ] S1 - Improving the productivity and competitiveness of a company
 - [ ] S1 - Git
 - [ ] S1 - Docker
 - [ ] S1 - Automated Testing
@@ -25,7 +26,7 @@
 - [ ] S3 - Merge
 - [ ] S3 - Checkout
 - [ ] S3 - Push
-- [ ] S3 - Pull 
+- [ ] S3 - Pull
 - [ ] S3 - Remote Add / Remove / Show
 - [ ] S3 - Status
 - [ ] S3 - Master Branch
