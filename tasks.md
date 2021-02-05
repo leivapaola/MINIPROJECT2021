@@ -4,13 +4,13 @@
 - [x] Create Project outline
 - [x] Create Folder structure
 - [x] Create placeholder pages
-- [ ] Discuss page content assignments
+- [x] Discuss page content assignments
 - [ ] Create page content (see list below)
 - [ ] Merge everything
 - [ ] Review material
 - [ ] Submit project
 
-## Pages
+## Phil's Pages
 - [ ] S1 - Improving the productivity and competitiveness of a company
 - [ ] S1 - Git
 - [ ] S1 - Docker
@@ -21,6 +21,8 @@
 - [ ] S3 - Repository
 - [ ] S3 - Clone
 - [ ] S3 - Fork
+
+## Paola's Pages
 - [ ] S3 - Branch
 - [ ] S3 - Commit
 - [ ] S3 - Merge
