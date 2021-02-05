@@ -44,3 +44,4 @@ Fix | Fixed formatting on README | Phil | 20210203
 Fix | Added sections to README | Phil | 20210204
 Fix | Added Date to Changelog | Phil | 20210204
 Feature | Added Task list | Phil | 20210204
+Task | Created folder structure and placeholder pages | Phil | 20210204

@@ -2,9 +2,10 @@
 
 - [x] Create Project outline
 - [x] Create Folder structure
+- [x] Create placeholder pages
 - [ ] Discuss page content assignments
 - [ ] Create page content (see list below)
-- [ ] Merge all completed
+- [ ] Merge everything
 - [ ] Review material
 - [ ] Submit project
 
