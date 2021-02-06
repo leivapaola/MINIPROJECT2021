@@ -23,13 +23,13 @@
 - [x] S3 - Fork
 
 ## Paola's Pages
-- [ ] S3 - Branch
-- [ ] S3 - Commit
-- [ ] S3 - Merge
-- [ ] S3 - Checkout
-- [ ] S3 - Push
-- [ ] S3 - Pull
-- [ ] S3 - Remote Add / Remove / Show
-- [ ] S3 - Status
-- [ ] S3 - Master Branch
+- [x] S3 - Branch
+- [x] S3 - Commit
+- [x] S3 - Merge
+- [x] S3 - Checkout
+- [x] S3 - Push
+- [x] S3 - Pull
+- [x] S3 - Remote Add / Remove / Show
+- [x] S3 - Status
+- [x] S3 - Master Branch
 - [ ] S4 - Sources
