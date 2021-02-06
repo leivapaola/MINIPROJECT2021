@@ -32,4 +32,4 @@
 - [x] S3 - Remote Add / Remove / Show
 - [x] S3 - Status
 - [x] S3 - Master Branch
-- [ ] S4 - Sources
+- [x] S4 - Sources
