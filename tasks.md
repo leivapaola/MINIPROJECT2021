@@ -5,8 +5,8 @@
 - [x] Create Folder structure
 - [x] Create placeholder pages
 - [x] Discuss page content assignments
-- [ ] Create page content (see list below)
-- [ ] Merge everything
+- [x] Create page content (see list below)
+- [x] Merge everything
 - [ ] Review material
 - [ ] Submit project
 
