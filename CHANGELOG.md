@@ -11,3 +11,4 @@ Task | Created folder structure and placeholder pages | Phil | 20210204
 Task | Moved CHANGELOG to separate file | Phil | 20210204
 Task | Assigned Pages to be updated | Phil | 20210204
 Feature | Defined Fork | Phil | 20210204
+Fix | Added fork link to README | Phil | 20210204
