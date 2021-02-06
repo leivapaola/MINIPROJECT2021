@@ -11,13 +11,13 @@ Explain how the usage of Git, Docker, automated testing, and continuous integrat
 
 ## Sections
 
-1. Improving the productivity and competitiveness of a company
-    * Git
-    * Docker
-    * Automated Testing
-    * Continuous Integration
-2. gitFlow workflow
-3. Git commands and terminology
+1. [Improving the productivity and competitiveness of a company](/section_1/main.md)
+    * [Git](/section_1/git.md)
+    * [Docker](/section_1/docker.md)
+    * [Automated Testing](/section_1/automated_testing.md)
+    * [Continuous Integration](/section_1/continuous_integration.md)
+2. [gitFlow workflow](/section_2/main.md)
+3. [Git commands and terminology](/section_3/main.md)
     * [Repository](/section_3/repository.md)
     * [Clone](/section_3/clone.md)
     * [Fork](/section_3/fork.md)
