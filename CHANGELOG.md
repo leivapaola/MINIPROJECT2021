@@ -28,3 +28,5 @@ Feature | Defined clone | Phil | 20210205
 Fix | Fixed link to clone | 20210205
 Task | Updated Sources | 20210205
 Task | Added all links to README | Phil | 20210205
+Feature | Defined Repository | Phil | 20210205
+Feature | Created Section 3 main page | Phil | 20210205

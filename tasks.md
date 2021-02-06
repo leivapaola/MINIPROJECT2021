@@ -17,7 +17,7 @@
 - [ ] S1 - Automated Testing
 - [ ] S1 - Continuous Integration
 - [ ] S2 - gitFlow workflow
-- [ ] S3 - Git commands and terminology
+- [x] S3 - Git commands and terminology
 - [x] S3 - Repository
 - [x] S3 - Clone
 - [x] S3 - Fork
