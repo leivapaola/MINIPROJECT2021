@@ -40,4 +40,4 @@ Feature | Added git page in section 1 | Phil | 20210206
 Feature | Added docker page to section 1 | Phil | 20210206
 Feature | Added automated testing page to Section 1 | Phil | 20210206
 Feature | Added continuous integration page to section 1 | Phil | 20210206
-Task | Merged all sections into main branch | Phil | 20210206
+Task | Merged all branches, updated task list | Phil | 20210206
