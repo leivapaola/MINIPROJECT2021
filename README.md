@@ -20,16 +20,16 @@ Explain how the usage of Git, Docker, automated testing, and continuous integrat
 3. Git commands and terminology
     * Repository
     * Clone
-    * Fork
-    * Branch
-    * Commit
-    * Merge
-    * Checkout
-    * Push
-    * Pull
-    * Remote Add / Remove / Show
-    * Status
-    * Master Branch
+    * [Fork](/section_3/fork.md)
+    * [Branch](/section_3/branch.md)
+    * [Commit](/section_3/commit.md)
+    * [Merge](/section_3/merge.md)
+    * [Checkout](/section_3/checkout.md)
+    * [Push](/section_3/push.md)
+    * [Pull](/section_3/pull.md)
+    * [Remote Add / Remove / Show](/section_3/remote_add_remove_show.md)
+    * [Status](/section_3/status.md)
+    * [Master Branch](/section_3/master_branch.md)
 4. Sources
 
 ## [Tasks](/tasks.md)
