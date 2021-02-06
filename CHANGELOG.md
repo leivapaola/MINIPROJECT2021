@@ -42,3 +42,11 @@ Feature | Added automated testing page to Section 1 | Phil | 20210206
 Feature | Added continuous integration page to section 1 | Phil | 20210206
 Task | Merged all branches, updated task list | Phil | 20210206
 Task | Updated sources Branching | Paola | 20210206
+Task | Updated sources commit | Paola | 20210206
+Task | Updated sources Merge | Paola | 20210206
+Task | Updated sources checkout | Paola | 20210206
+Task | Updated sources push | Paola | 20210206
+Task | Updated sources Pull | Paola | 20210206
+Task | Updated sources remote add/remove/show | Paola | 20210206
+Task | Updated sources Status | Paola | 20210206
+Task | Updated sources master branch | Paola | 20210206
