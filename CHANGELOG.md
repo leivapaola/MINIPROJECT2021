@@ -25,8 +25,8 @@ Feature | Entered Status Definition | Paola | 20210205
 Feature | Entered Master Branch Definition | Paola | 20210205
 Task | updated links from README | Phil | 20210205
 Feature | Defined clone | Phil | 20210205
-Fix | Fixed link to clone | 20210205
-Task | Updated Sources | 20210205
+Fix | Fixed link to clone | Phil | 20210205
+Task | Updated Sources | Phil | 20210205
 Task | Added all links to README | Phil | 20210205
 Feature | Defined Repository | Phil | 20210205
 Feature | Created Section 3 main page | Phil | 20210205
@@ -34,3 +34,9 @@ Feature | Defined gitFlow workflow | Phil | 20210205
 Task | uploaded gitflow diagram image | Phil | 20210205
 Task | updated sources | Phil | 20210205
 Fix | updated formatting on section 2 main page | Phil | 20210206
+Fix | fixed changelog formatting | Phil | 20210206
+Feature | Created Section 1 main page | Phil | 20210205
+Feature | Added git page in section 1 | Phil | 20210206
+Feature | Added docker page to section 1 | Phil | 20210206
+Feature | Added automated testing page to Section 1 | Phil | 20210206
+Feature | Added continuous integration page to section 1 | Phil | 20210206

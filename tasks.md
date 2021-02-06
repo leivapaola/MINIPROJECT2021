@@ -11,11 +11,11 @@
 - [ ] Submit project
 
 ## Phil's Pages
-- [ ] S1 - Improving the productivity and competitiveness of a company
-- [ ] S1 - Git
-- [ ] S1 - Docker
-- [ ] S1 - Automated Testing
-- [ ] S1 - Continuous Integration
+- [x] S1 - Improving the productivity and competitiveness of a company
+- [x] S1 - Git
+- [x] S1 - Docker
+- [x] S1 - Automated Testing
+- [x] S1 - Continuous Integration
 - [x] S2 - gitFlow workflow
 - [x] S3 - Git commands and terminology
 - [x] S3 - Repository
