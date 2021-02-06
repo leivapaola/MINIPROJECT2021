@@ -20,7 +20,7 @@ Explain how the usage of Git, Docker, automated testing, and continuous integrat
 3. Git commands and terminology
     * Repository
     * Clone
-    * Fork
+    * [Fork](/section_3/fork.md)
     * Branch
     * Commit
     * Merge

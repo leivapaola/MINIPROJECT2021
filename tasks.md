@@ -20,7 +20,7 @@
 - [ ] S3 - Git commands and terminology
 - [ ] S3 - Repository
 - [ ] S3 - Clone
-- [ ] S3 - Fork
+- [x] S3 - Fork
 
 ## Paola's Pages
 - [ ] S3 - Branch
