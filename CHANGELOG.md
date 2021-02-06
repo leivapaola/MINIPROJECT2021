@@ -33,3 +33,4 @@ Feature | Created Section 3 main page | Phil | 20210205
 Feature | Defined gitFlow workflow | Phil | 20210205
 Task | uploaded gitflow diagram image | Phil | 20210205
 Task | updated sources | Phil | 20210205
+Fix | updated formatting on section 2 main page | Phil | 20210206
