@@ -25,3 +25,4 @@ Feature | Entered Status Definition | Paola | 20210205
 Feature | Entered Master Branch Definition | Paola | 20210205
 Task | updated links from README | Phil | 20210205
 Feature | Defined clone | Phil | 20210205
+Fix | Fixed link to clone | 20210205

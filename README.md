@@ -18,8 +18,8 @@ Explain how the usage of Git, Docker, automated testing, and continuous integrat
     * Continuous Integration
 2. gitFlow workflow
 3. Git commands and terminology
-    * Repository
-    * Clone
+    * [Repository](/section_3/repository.md)
+    * [Clone](/section_3/clone.md)
     * [Fork](/section_3/fork.md)
     * [Branch](/section_3/branch.md)
     * [Commit](/section_3/commit.md)
