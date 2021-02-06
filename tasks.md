@@ -5,8 +5,8 @@
 - [x] Create Folder structure
 - [x] Create placeholder pages
 - [x] Discuss page content assignments
-- [ ] Create page content (see list below)
-- [ ] Merge everything
+- [x] Create page content (see list below)
+- [x] Merge everything
 - [ ] Review material
 - [ ] Submit project
 
@@ -32,4 +32,4 @@
 - [x] S3 - Remote Add / Remove / Show
 - [x] S3 - Status
 - [x] S3 - Master Branch
-- [ ] S4 - Sources
+- [x] S4 - Sources
