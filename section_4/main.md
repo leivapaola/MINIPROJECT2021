@@ -9,3 +9,4 @@
 - [What is Git? What benefits does Git offer?](https://guide.quickscrum.com/git-guide/)
 - [Using Docker to increase Developer Efficiency](https://www.conceptatech.com/blog/using-docker-to-increase-developer-efficiency)
 - [Docker Overview](https://docs.docker.com/get-started/overview/)
+- [Increase Efficiency and Productivity with Test Automation](https://bitbar.com/blog/increase-efficiency-and-productivity-with-test-automation/)

@@ -37,3 +37,4 @@ Fix | fixed changelog formatting | Phil | 20210206
 Feature | Created Section 1 main page | Phil | 20210205
 Feature | Added git page in section 1 | Phil | 20210206
 Feature | Added docker page to section 1 | Phil | 20210206
+Feature | Added automated testing page to Section 1 | Phil | 20210206
