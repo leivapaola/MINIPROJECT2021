@@ -14,3 +14,12 @@ Feature | Defined Fork | Phil | 20210205
 Fix | Added fork link to README | Phil | 20210205
 Fix | Corrected fork link | Phil | 20210205
 Fix | Fixed dates on changelog | Phil | 20210205
+Feature | Entered Branch Definition | Paola | 20210205
+Feature | Entered Commit Definition | Paola | 20210205
+Feature | Entered Merge Definition | Paola | 20210205
+Feature | Entered Checkout Definition | Paola | 20210205
+Feature | Entered Push Definition | Paola | 20210205
+Feature | Entered Pull Definition | Paola | 20210205
+Feature | Entered Remote add/remove/show Definition | Paola | 20210205
+Feature | Entered Status Definition | Paola | 20210205
+Feature | Entered Master Branch Definition | Paola | 20210205
