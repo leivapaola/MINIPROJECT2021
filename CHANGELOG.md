@@ -32,3 +32,4 @@ Feature | Defined Repository | Phil | 20210205
 Feature | Created Section 3 main page | Phil | 20210205
 Feature | Defined gitFlow workflow | Phil | 20210205
 Task | uploaded gitflow diagram image | Phil | 20210205
+Task | updated sources | Phil | 20210205
