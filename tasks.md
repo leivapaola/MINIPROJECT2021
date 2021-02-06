@@ -11,7 +11,7 @@
 - [ ] Submit project
 
 ## Phil's Pages
-- [ ] S1 - Improving the productivity and competitiveness of a company
+- [x] S1 - Improving the productivity and competitiveness of a company
 - [ ] S1 - Git
 - [ ] S1 - Docker
 - [ ] S1 - Automated Testing
