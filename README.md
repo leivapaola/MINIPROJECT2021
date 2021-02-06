@@ -30,7 +30,7 @@ Explain how the usage of Git, Docker, automated testing, and continuous integrat
     * [Remote Add / Remove / Show](/section_3/remote_add_remove_show.md)
     * [Status](/section_3/status.md)
     * [Master Branch](/section_3/master_branch.md)
-4. Sources
+4. [Sources](/section_4/main.md)
 
 ## [Tasks](/tasks.md)
 
