@@ -19,7 +19,7 @@
 - [ ] S2 - gitFlow workflow
 - [ ] S3 - Git commands and terminology
 - [ ] S3 - Repository
-- [ ] S3 - Clone
+- [x] S3 - Clone
 - [x] S3 - Fork
 
 ## Paola's Pages
