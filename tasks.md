@@ -7,8 +7,8 @@
 - [x] Discuss page content assignments
 - [x] Create page content (see list below)
 - [x] Merge everything
-- [ ] Review material
-- [ ] Submit project
+- [x] Review material
+- [x] Submit project
 
 ## Phil's Pages
 - [x] S1 - Improving the productivity and competitiveness of a company

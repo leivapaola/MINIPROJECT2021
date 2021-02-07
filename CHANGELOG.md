@@ -50,3 +50,4 @@ Task | Updated sources Pull | Paola | 20210206
 Task | Updated sources remote add/remove/show | Paola | 20210206
 Task | Updated sources Status | Paola | 20210206
 Task | Updated sources master branch | Paola | 20210206
+Task | Marked task list as complete | Phil | 20210207
